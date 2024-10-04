@@ -2,6 +2,7 @@
 
  # preprocessing
  #1. Show the histogram of the image "Crayfish_NG.jpg". Analyze the histogram obtained: identify the problem and explain the different solutions possible.
+ 
  #2. test several preprocessing operations:
 
       a. Histogram Stretching (Dynamic Range Adjustment) of the image "Crayfish_NG.jpg".
